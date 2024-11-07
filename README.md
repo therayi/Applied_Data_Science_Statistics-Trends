@@ -25,7 +25,7 @@ Heatmap (Statistical Graph)
 ### HeatMap
 ![image](https://github.com/user-attachments/assets/a9f2b8f8-7387-4b52-aaea-057d459ba0bd)
 
-### desc() & corr() [Mean & Standard Deviation)
+### desc() & corr() [Mean & Standard Deviation]
 ![image](https://github.com/user-attachments/assets/d8be745d-ff66-440c-98a1-08ffd5f59f85)
 ![image](https://github.com/user-attachments/assets/0439e168-4542-45b3-910b-f2b496ce4f14)
  ### Skewness & Kurtosis
